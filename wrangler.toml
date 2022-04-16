@@ -2,7 +2,7 @@ name = "cf-torrent"
 type = "webpack"
 webpack_config = "webpack.config.js"
 
-account_id = "beb4bcd8e7745c773f537760f0a40886"
+account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
