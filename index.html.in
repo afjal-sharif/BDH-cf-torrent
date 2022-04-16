@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>cf-torrent</title>
+        <title>BDH Torrents</title>
         <link rel="stylesheet" hrefg="https://unpkg.com/sakura.css/css/sakura.css" id="css" href="https://unpkg.com/sakura.css/css/sakura.css" type="text/css">
     </head>
     <body>
@@ -38,9 +38,9 @@ form > input {
 }
         </style>
         <header>
-            <h1>CF-torrent</h1>
+            <h1>BDH Torrents</h1>
             <form id="form">
-                <input id="query" placeholder="Search query" name="q" type="text"></input>
+                <input id="query" placeholder="Search Query" name="q" type="text"></input>
                 <button type="submit">Search</button>
             </form>
         </header>
